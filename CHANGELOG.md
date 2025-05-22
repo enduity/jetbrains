@@ -6,6 +6,8 @@
 
 ### Changed
 
+- (Dependencies): Upgraded to [IntelliJ Platform Gradle Plugin 2.x](https://plugins.jetbrains.com/docs/intellij/tools-intellij-platform-gradle-plugin.html)
+
 ### Deprecated
 
 ### Removed
